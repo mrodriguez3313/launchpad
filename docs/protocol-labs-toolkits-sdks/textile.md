@@ -5,7 +5,7 @@ description: Connecting and Extending PL Projects
 ## Textile
 Learn more about textile on the website at [textile.io](https://linktr.ee/textileio) and in the [docs](https://docs.textile.io/)
 
-Textile is designed to connect and extend Libp2p, IPFS, and Filecoin.
+Textile is designed to connect and extend libp2p, IPFS, and Filecoin.
 
 Textile’s suite of developer tools, including Powergate, Buckets, and ThreadDB, let developers build meaningful experiences quickly with Web3 protocols like libp2p, IPFS, and Filecoin.
 
@@ -30,7 +30,7 @@ Buckets are:
 ### ThreadDB
 ThreadDB makes dynamic data on the DWeb easy by providing simple data hosting services and an API familiar to anyone who used MongoDB/Mongoose.
 
-ThreadDB is a secure, decentralized, p2p database built on IPFS and Libp2p.
+ThreadDB is a secure, decentralized, p2p database built on IPFS and libp2p.
 
 Spend less time configuring encryption or managing content addresses with ThreadDB.
 
